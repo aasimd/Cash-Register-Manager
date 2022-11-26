@@ -1,0 +1,13 @@
+div.container{
+    display: block;
+}
+
+table{
+    margin-top: 1rem;
+    border: 1px black solid;
+    
+}
+
+.message {
+    display: flex;
+}
